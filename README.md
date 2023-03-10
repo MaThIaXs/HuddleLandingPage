@@ -25,15 +25,15 @@ Users should be able to:
 ### Screenshot
 
 Desktop
-
+![Screenshot_1](https://user-images.githubusercontent.com/113397248/224388013-2474dd34-ec6d-41ee-a471-05d9588cb641.jpg)
 
 Mobile<br>
-
+![Screenshot_2](https://user-images.githubusercontent.com/113397248/224388073-f6de74bd-d736-4fc7-a3b6-fa2a1a7a8683.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-Zsuif41ESe)
+- Live Site URL: [Live site](https://mathiaxs.github.io/HuddleLandingPage/)
 
 ## My process
 
